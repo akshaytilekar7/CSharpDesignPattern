@@ -1,0 +1,9 @@
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\bin\Debug\netstandard2.0\POC.BusinessEntities.deps.json
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\bin\Debug\netstandard2.0\POC.BusinessEntities.dll
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\bin\Debug\netstandard2.0\POC.BusinessEntities.pdb
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\POC.BusinessEntities.csprojAssemblyReference.cache
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\POC.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\POC.BusinessEntities.AssemblyInfoInputs.cache
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\POC.BusinessEntities.AssemblyInfo.cs
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\POC.BusinessEntities.dll
+C:\study\Projects\POC.DesignPattern\POC.BusinessEntities\obj\Debug\netstandard2.0\POC.BusinessEntities.pdb
